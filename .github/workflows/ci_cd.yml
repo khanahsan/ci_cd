@@ -9,7 +9,6 @@ env:
 
 jobs:
   build:
-    job:
     runs-on: windows-latest
 
     steps:
