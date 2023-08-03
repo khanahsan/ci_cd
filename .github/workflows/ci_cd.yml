@@ -36,7 +36,7 @@ jobs:
         run: flutter pub get
 
       - name: Pub Get Packages
-          run: flutter build apk
+        run: flutter build apk
 
       - name: Save APK to Artifacts
         uses: actions/upload-artifact@v2
