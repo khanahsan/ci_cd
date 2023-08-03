@@ -1,4 +1,4 @@
-name: CI CD Master
+name: App CI CD Master
 on:
   push:
     branches:
