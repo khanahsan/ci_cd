@@ -2,7 +2,7 @@ name: App CI CD Master
 on:
   push:
     branches:
-      -master
+      - master
 env:
   flutter_version: "3.7.6"
   java_version: "11.x"
